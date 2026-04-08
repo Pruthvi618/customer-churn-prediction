@@ -67,7 +67,7 @@ Customer churn leads to revenue loss. This project helps identify at-risk custom
 
 ```bash
 pip install -r requirements.txt
-python src/model_training.py
+python customer_churn_prediction_using_logistic_regression.py
 ```
 
 ---
